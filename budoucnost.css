@@ -1,0 +1,19 @@
+.storvreta{
+    justify-content: right;
+    display: flex;
+}
+
+.tatran{
+    justify-content: left;
+    display: flex;
+}
+
+.obrazekT{
+    display: flex;
+    justify-content: space-between;
+}
+
+.obrazekS{
+    display: flex;
+    justify-content: space-between;
+}

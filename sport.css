@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+    color: #333;
+    
+}
+
+.florbaltext {
+    max-height: 1vh;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    display: flex;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%) center /cover fixed;
+}
+
+
+.florbal{
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%) center /cover fixed;
+    color: white;
+    max-height: 500vh;
+    padding: 20vh;
+    
+}
+
+.posilovani{
+    justify-content: space-around;
+    display: flex;
+    color: white;
+    text-align: center;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    padding: 20vh;
+}
+
+.posilovanitext{
+    max-height: 1vh;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    display: flex;
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
